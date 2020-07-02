@@ -13,10 +13,11 @@ This repository maintain paper list of conversational recommender and relevent r
 #### 2020
 
 1. [Evaluating Conversational Recommender Systems via User Simulation](https://arxiv.org/abs/2006.08732). Zhang S, Balog K. **KDD 2020**. [[code](https://github.com/iai-group/kdd2020-usersim)]
-2. [Interactive Path Reasoning on Graph for Conversational Recommendation](). **KDD 2020**
+2. [Interactive Path Reasoning on Graph for Conversational Recommendation](). Wenqiang Lei 1, Gangyi Zhang 2, Xiangnan He , Yisong Miao , Xiang Wang , Liang Chen 3 ,**KDD 2020**
 3. [Conversational Recommender Systems and natural language: A study through the ConveRSE framework](). Andrea Iovine  Fedelucio Narducci. **DSS 2020**
 4. [Estimation–Action–Reflection: Towards Deep Interaction Between Conversational and Recommender Systems](). Wenqiang Lei  Xiangnan He. **WSDM 2020** [[code](https://ear-conv-rec.github.io)]
 5. [Towards Conversational Recommendation over Multi-Type Dialogs](). Wanxiang Che  Zeming Liu Haifeng Wang. **ACL 2020**
+6. [Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users](https://arxiv.org/pdf/2005.12979.pdf).Shijun Li, Wenqiang Lei, Qingyun Wu, Xiangnan He, Peng Jiang, Tat-Seng Chua. **arXiv 2020**. [[data](https://github.com/xiwenchao/Kuaishou-data/)]
 
 #### 2019 
 

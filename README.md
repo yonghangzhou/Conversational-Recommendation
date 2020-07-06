@@ -6,7 +6,7 @@ This repository maintain paper list of conversational recommender and relevent r
 
 1. [A Survey on Conversational Recommender Systems](https://arxiv.org/abs/2004.00646). **arXiv 2020**
 2. [Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems](https://arxiv.org/abs/2004.13245).**arXiv 2020**
-3. [Interactive recommender systems: A survey of the state of the art andfuture research challenges and opportunities](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417416X00073/1-s2.0-S0957417416300367/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA8aCXVzLWVhc3QtMSJGMEQCIFflzdUEtPguvvoVwLO2ha7rWSrLxQuLwTYIyuBZm5YNAiAyBuJZhXZzTSVPEQOk77sUlgyN7tmaiCuVF3WcJa3oECq9Awin%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDA1OTAwMzU0Njg2NSIMvCfx3Ps4wlnab7b%2BKpEDhgWrIqGjs27zP%2FQHEvVlJgQurX4HFxyFQbL%2FXPMTmX5Xk0ODLkbVrRWdPRoUuj5%2BggPESyAvNyF3iS6P%2FELR4zgf0nSc%2Ff%2BNorUEcLP2uUOcljKvjQHw5ZZB7RlAh8B9sQ1fQjxb6YvmdNpfRP6ypFfa2bHqiHRNDHSt86Mjk%2BmYz6FwhaL0Pl9RGZlMW%2BR1PMroq5cZBCU22r9b4vxy3Jv%2BjRXS%2FN2fJ5ARZEQ9EXKt2384cyybX1ED3uTGHJt0wGZ2UpLmkbghmwhMMpq%2ByhXvr5AwbhyYnuJxF8M8haJdgCUKFaun2er%2FnIaTuTeCy1Ysohlzn9vDJTEpkp3OFuVG%2B5MoiXkXGXYD%2FPS839YEt4LBzy6%2BJM0JVX0Lec9%2F5DwR4vXbYBrjENTnFgNTED36RPGpFkOOqL7V1XZNs5VxWtVMGbQfWJ%2B8KApAzqR0HRdFKNpzU21nURHyEavLXu8mww1iXFv39nt9SCSph4aPPTwH7XwpVljToNipKQdQi2RMemXxjSaIeSxAfDYSyHcwg8KH%2BAU67AHeV2ndpBqowFwUxwGsfa%2FlE4k%2FDqI5fCDBp1ZgjXrhx84P04ozdVXKFIydIrzPQS9iCsmRYsu0mVl1pZQUkemgaM3dFGGDQGO9jdS26LedpLtdqW8oI8JDdrSTiVabA9TbyHXN4AKGRRxKN7sCJURiEB6nB8vsbgNW%2BrL9bjQ7Qdkuagl48UHBWMIbqk2wxQd9w6LD8lqzmTHZLlbMPnuAqo44NfnLghmPoy8OS6kx8SN6WshmSDSDSXYSe2mb4DUt0tE6bAyJKrDlp50RioqZhmy101I0ogZU20GaH58%2BdyfNUE4edgwvST2KRg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200705T150043Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVTEFEXV5%2F20200705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e9bb78c7ddc3f9ef6c3df8a8bad863ed712008f36e2dca623d297ddf778402ee&hash=9bec5005dc5d1b9dea7cff158240e8ad413eb0240daae0a553b87b5b1217516e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417416300367&tid=spdf-5d7fb5c0-52d6-46e3-84b1-a6fda5a8b04c&sid=ec4d07fc8530874c646a13774a574670dc0bgxrqa&type=client).**EWSA 2016**
+3. [Interactive recommender systems: A survey of the state of the art andfuture research challenges and opportunities](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417416X00073/1-s2.0-S0957417416300367/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA8aCXVzLWVhc3QtMSJGMEQCIFflzdUEtPguvvoVwLO2ha7rWSrLxQuLwTYIyuBZm5YNAiAyBuJZhXZzTSVPEQOk77sUlgyN7tmaiCuVF3WcJa3oECq9Awin%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDA1OTAwMzU0Njg2NSIMvCfx3Ps4wlnab7b%2BKpEDhgWrIqGjs27zP%2FQHEvVlJgQurX4HFxyFQbL%2FXPMTmX5Xk0ODLkbVrRWdPRoUuj5%2BggPESyAvNyF3iS6P%2FELR4zgf0nSc%2Ff%2BNorUEcLP2uUOcljKvjQHw5ZZB7RlAh8B9sQ1fQjxb6YvmdNpfRP6ypFfa2bHqiHRNDHSt86Mjk%2BmYz6FwhaL0Pl9RGZlMW%2BR1PMroq5cZBCU22r9b4vxy3Jv%2BjRXS%2FN2fJ5ARZEQ9EXKt2384cyybX1ED3uTGHJt0wGZ2UpLmkbghmwhMMpq%2ByhXvr5AwbhyYnuJxF8M8haJdgCUKFaun2er%2FnIaTuTeCy1Ysohlzn9vDJTEpkp3OFuVG%2B5MoiXkXGXYD%2FPS839YEt4LBzy6%2BJM0JVX0Lec9%2F5DwR4vXbYBrjENTnFgNTED36RPGpFkOOqL7V1XZNs5VxWtVMGbQfWJ%2B8KApAzqR0HRdFKNpzU21nURHyEavLXu8mww1iXFv39nt9SCSph4aPPTwH7XwpVljToNipKQdQi2RMemXxjSaIeSxAfDYSyHcwg8KH%2BAU67AHeV2ndpBqowFwUxwGsfa%2FlE4k%2FDqI5fCDBp1ZgjXrhx84P04ozdVXKFIydIrzPQS9iCsmRYsu0mVl1pZQUkemgaM3dFGGDQGO9jdS26LedpLtdqW8oI8JDdrSTiVabA9TbyHXN4AKGRRxKN7sCJURiEB6nB8vsbgNW%2BrL9bjQ7Qdkuagl48UHBWMIbqk2wxQd9w6LD8lqzmTHZLlbMPnuAqo44NfnLghmPoy8OS6kx8SN6WshmSDSDSXYSe2mb4DUt0tE6bAyJKrDlp50RioqZhmy101I0ogZU20GaH58%2BdyfNUE4edgwvST2KRg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200705T150043Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVTEFEXV5%2F20200705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e9bb78c7ddc3f9ef6c3df8a8bad863ed712008f36e2dca623d297ddf778402ee&hash=9bec5005dc5d1b9dea7cff158240e8ad413eb0240daae0a553b87b5b1217516e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417416300367&tid=spdf-5d7fb5c0-52d6-46e3-84b1-a6fda5a8b04c&sid=ec4d07fc8530874c646a13774a574670dc0bgxrqa&type=client).**ESWA 2016**
 
 
 
@@ -32,7 +32,8 @@ This repository maintain paper list of conversational recommender and relevent r
 2. [Preference Elicitation Strategy for Conversational Recommender System.](Preference Elicitation Strategy for Conversational Recommender System.)Priyogi B.**WSDM 2019**
 3. [Towards Knowledge-Based Recommender Dialog System](https://arxiv.org/pdf/1908.05391.pdf) Chen Q, Lin J, Zhang Y, et al. **EMNLP 2019** [[code]()]
 4. [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences.](Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences.) Radlinski F, Balog K, Byrne B, et al.  **2019**
-5. 
+
+   
 
 #### 2018
 
@@ -53,6 +54,15 @@ This repository maintain paper list of conversational recommender and relevent r
 #### 2015
 
 #### ~2014
+
+
+
+1. [ Towards more conversational and collaborative recommender system](https://dl.acm.org/doi/abs/10.1145/604045.604052?casa_token=avw59u3HZL4AAAAA:BAYkC8-hSujDbG64YahZ9GVqnrcqQle4-efvtCSfak4zzfTtgF_zu8MXYA3Vv0fZ0MSwOK--P6lkAg ).Carenini G, Smith J, Poole D.**IUI 2003**
+2. [Towards Conversational Recommender Systems: A Dialogue Grammar Approach](http://www.cs.ucc.ie/~dgb/papers/Bridge-2002.pdf) Bridge D G.  **2020 ECCBR**
+3. [Adaptive Selection: An Analysis of Critiquing and Preference-Based Feedback in ConversationalRecommender Systems](https://www.tandfonline.com/doi/abs/10.2753/JEC1086-4415110202)  **INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE 2006**
+4. [RAPID DEVELOPMENT OF KNOWLEDGE-BASED CONVERSATIONAL RECOMMENDER APPLICATIONS WITH ADVISOR SUITE](https://www.riverpublishers.com/journal/journal_articles/RP_Journal_1540-9589_625.pdf) **Journal of Web Engineering 2007**
+5. [Adaptive Selection: An Analysis of Critiquing and Preference-Based Feedback in Conversational Recommender Systems](https://dl.acm.org/doi/abs/10.1145/2507157.2507161?casa_token=h4T57xepYQUAAAAA:B152QVwxlGun5qYmGnWoRC6nC0sqL0-6SGsyIZH4sCu-5564p_yYDkQuFZcHXEVlecIGt7TpCfA8iw) **RecSys 2013**
+6. [Conversational Collaborative Recommendation – An Experimental Analysis](https://link.springer.com/article/10.1007%2Fs10462-005-9004-8) **Artificial Intelligence Review 2005**
 
 ### Meeting
 

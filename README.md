@@ -31,7 +31,7 @@ This repository maintain paper list of conversational recommender and relevent r
 1. [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://dl.acm.org/doi/pdf/10.1145/3331184.3331265). Aliannejadi M, Zamani H, Crestani F, et al. **SIGIR 2019**.[[data](https://github.com/aliannejadi/qulac)]
 2. [Preference Elicitation Strategy for Conversational Recommender System.](Preference Elicitation Strategy for Conversational Recommender System.)Priyogi B.**WSDM 2019**
 3. [Towards Knowledge-Based Recommender Dialog System](https://arxiv.org/pdf/1908.05391.pdf) Chen Q, Lin J, Zhang Y, et al. **EMNLP 2019** [[code]()]
-4. [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences.](Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences.) Radlinski F, Balog K, Byrne B, et al.  **2019**
+4. [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences.]() Radlinski F, Balog K, Byrne B, et al.  **2019**
 
    
 
